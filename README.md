@@ -19,13 +19,13 @@
 
 - Chapter 2  
 -- Solution Space and Learning Behavior of McCulloch-Pitts Neuron  
-[lecture note]()  
+[lecture note](./Chapter_2/lecture_note/Germetrical.pdf)  
 (corrections: Fig.3 (left figure), F0 --> F15 (four black circles);  
 Fig.3 (right figure), F15 --> F0 (four empty circles))  
-*refer:  
-[demo]()  
-[matlab code]()  
-[remark]()
+*refer:[J.19](./Chapter_2/refer/J19/),[B.18](./Chapter_2/refer/B18/)  
+[demo](./Chapter_2/demo/)  
+[matlab code](./Chapter_2/matlab_code/)  
+[remark](./Chapter_2/remark/NNChapter2Remark.pdf)
 
 - Chapter 3  
 -- Learning with Quadratic Sigmoid Function   
