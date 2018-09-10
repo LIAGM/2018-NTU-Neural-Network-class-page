@@ -29,11 +29,11 @@ Fig.3 (right figure), F15 --> F0 (four empty circles))
 
 - Chapter 3  
 -- Learning with Quadratic Sigmoid Function   
-[lecture note]()  
-[exercise]()  
-*refer:  
-[matlab code]()  
-*supplementary material:
+[lecture note](./Chapter_3/lecture_note/ICONIP1994.pdf)  
+[exercise](./Chapter_3/exercise/exe_03.pdf)  
+*refer:[C.10](./Chapter_3/refer/C10/)  
+[matlab code](./Chapter_3/matlab_code/)  
+[supplementary material](./Chapter_3/supplementary material/)
 
 - Chapter 4  
 -- Hidden Tree in Multilayer Network  
