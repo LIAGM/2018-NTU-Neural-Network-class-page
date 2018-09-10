@@ -14,8 +14,8 @@
 ## Course Slides
 - Chapter 1  
 -- Reification of Boolean Logic  
-[lecture note]()  
-[exercise]()
+[lecture note](./Chapter_1/lecture_note/Chapter1_lastest.pdf)  
+[exercise](./Chapter_1/exercise/exe_01.pdf)
 
 - Chapter 2  
 -- Solution Space and Learning Behavior of McCulloch-Pitts Neuron  
