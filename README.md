@@ -22,7 +22,7 @@
 [lecture note](./Chapter_2/lecture_note/Germetrical.pdf)  
 (corrections: Fig.3 (left figure), F0 --> F15 (four black circles);  
 Fig.3 (right figure), F15 --> F0 (four empty circles))  
-*refer:[J.19](./Chapter_2/refer/J19/),[B.18](./Chapter_2/refer/B18/)  
+*refer: [J.19](./Chapter_2/refer/J19/), [B.18](./Chapter_2/refer/B18/)  
 [demo](./Chapter_2/demo/)  
 [matlab code](./Chapter_2/matlab_code/)  
 [remark](./Chapter_2/remark/NNChapter2Remark.pdf)
@@ -31,18 +31,18 @@ Fig.3 (right figure), F15 --> F0 (four empty circles))
 -- Learning with Quadratic Sigmoid Function   
 [lecture note](./Chapter_3/lecture_note/ICONIP1994.pdf)  
 [exercise](./Chapter_3/exercise/exe_03.pdf)  
-*refer:[C.10](./Chapter_3/refer/C10/)  
+*refer: [C.10](./Chapter_3/refer/C10/)  
 [matlab code](./Chapter_3/matlab_code/)  
 [supplementary material](./Chapter_3/supplementary material/)
 
 - Chapter 4  
 -- Hidden Tree in Multilayer Network  
 This tree shows the hidden details of the MLP. It can pinpoint the local detailed errors in the MLP during BP training.  
-[lecture note]()  
-[exercise]()  
-*refer:  
-*demo:  
-[remark]()
+[lecture note](./Chapter_4/lecture_note/AIR.pdf)  
+[exercise](./Chapter_4/exercise/exe_04.pdf)  
+*refer: [C.12](./Chapter_4/refer/C12/)  
+[demo](./Chapter_4/demo/)  
+[remark](./Chapter_4/remark/NNChapter4Remark.pdf)
 
 - Chapter 5  
 -- Internal Representations of Hidden Layers  
