@@ -47,17 +47,17 @@ This tree shows the hidden details of the MLP. It can pinpoint the local detaile
 - Chapter 5  
 -- Internal Representations of Hidden Layers  
 There are five types to operate the SIR:  
-Type I:    [SIR-SOM]()  
-Type II:   [SIR-Kernel]()  
-Type III:  [SIR-Recurrent]()  
+Type I:    [SIR-SOM](https://link.springer.com/chapter/10.1007%2F978-3-642-03040-6_1),     [tutorial](./Chapter_5/SIR_SOM/ICONIP2008_86_ppt.pdf)  
+Type II:   [SIR-Kernel](https://link.springer.com/chapter/10.1007%2F978-3-642-03040-6_46),  [tutorial and code](./Chapter_5/SIR_Kernel/)  
+Type III:  [SIR-Recurrent](https://link.springer.com/chapter/10.1007%2F978-3-540-69162-4_27)  
 Type IV:   SIR-Hopfield  
 Type V:    SIR-Module  
-[lecture note]()  
-[exercise]()  
-*refer:  
-[matlab code]()  
-[codes for figure 5,6,7]()  
-[supplementary material]()
+[lecture note](./Chapter_5/lecture_note/SIR.pdf)  
+[exercise](./Chapter_5/exercise/exe_05.pdf)  
+*refer: [C.20](./Chapter_5/refer/C20/)  
+[matlab code](./Chapter_5/matlab_code/)  
+[codes for figure 5,6,7](./Chapter_5/codes_for_figure_567/)  
+[supplementary material](./Chapter_5/supplementary material/)
 
 - Chapter 6  
 -- Hairy model  
