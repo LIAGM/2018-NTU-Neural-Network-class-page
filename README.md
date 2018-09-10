@@ -63,15 +63,15 @@ Type V:    SIR-Module
 -- Hairy model  
 [lecture note](./Chapter_6/lecture_note/ETAM.pdf)  
 [exercise](./Chapter_6/exercise/exe_06.pdf)  
-*refer:[j.15](https://link.springer.com/article/10.1007%2Fs004220050566), [tutorial and code](./Chapter_6/refer/J15/)  
+*refer: [j.15](https://link.springer.com/article/10.1007%2Fs004220050566), [tutorial and code](./Chapter_6/refer/J15/)  
 [matlab code](./Chapter_6/matlab_code/)  
 [demo](./Chapter_6/demo/)
 
 - Chapter 7  
 -- Caianiello Neuronic Equations  
-[lecture note]()  
-[exercise]()  
-*refer:
+[lecture note](./Chapter_7/lecture_note/SBN.pdf)  
+[exercise](./Chapter_7/exercise/exe_07.pdf)  
+*refer: [B.1](https://link.springer.com/chapter/10.1007%2F3-540-44989-2_7)
 
 - Chapter 8  
 -- Caianiello Polygonal Inequality  
