@@ -33,7 +33,7 @@ Fig.3 (right figure), F15 --> F0 (four empty circles))
 [exercise](./Chapter_3/exercise/exe_03.pdf)  
 *refer: [C.10](./Chapter_3/refer/C10/)  
 [matlab code](./Chapter_3/matlab_code/)  
-[supplementary material](./Chapter_3/supplementary material/)
+[supplementary material](./Chapter_3/supplementary_material/)
 
 - Chapter 4  
 -- Hidden Tree in Multilayer Network  
@@ -57,15 +57,15 @@ Type V:    SIR-Module
 *refer: [C.20](./Chapter_5/refer/C20/)  
 [matlab code](./Chapter_5/matlab_code/)  
 [codes for figure 5,6,7](./Chapter_5/codes_for_figure_567/)  
-[supplementary material](./Chapter_5/supplementary material/)
+[supplementary material](./Chapter_5/supplementary_material/)
 
 - Chapter 6  
 -- Hairy model  
-[lecture note]()  
-[exercise]()  
-*refer:  
-[matlab code]()  
-[demo]()
+[lecture note](./Chapter_6/lecture_note/ETAM.pdf)  
+[exercise](./Chapter_6/exercise/exe_06.pdf)  
+*refer:[j.15](https://link.springer.com/article/10.1007%2Fs004220050566), [tutorial and code](./Chapter_6/refer/J15/)  
+[matlab code](./Chapter_6/matlab_code/)  
+[demo](./Chapter_6/demo/)
 
 - Chapter 7  
 -- Caianiello Neuronic Equations  
