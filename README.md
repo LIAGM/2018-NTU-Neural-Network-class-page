@@ -75,10 +75,10 @@ Type V:    SIR-Module
 
 - Chapter 8  
 -- Caianiello Polygonal Inequality  
-[lecture note]()  
+[lecture note](./Chapter_8/lecture_note/Polygonal.pdf)  
 
-- [Appendix]()
-- [References]()
+- [Appendix](./Appendix/APPENDIX.pdf)
+- [References](./References/Reference.pdf)
 
 ## Textbook
 
