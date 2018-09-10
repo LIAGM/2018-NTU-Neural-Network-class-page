@@ -14,71 +14,71 @@
 ## Course Slides
 - Chapter 1  
 -- Reification of Boolean Logic  
-*lecture note  
-*exercise
+[lecture note]()  
+[exercise]()
 
 - Chapter 2  
 -- Solution Space and Learning Behavior of McCulloch-Pitts Neuron  
-*lecture note  
+[lecture note]()  
 (corrections: Fig.3 (left figure), F0 --> F15 (four black circles);  
 Fig.3 (right figure), F15 --> F0 (four empty circles))  
 *refer:  
-*demo  
-*matlab code  
-*remark
+[demo]()  
+[matlab code]()  
+[remark]()
 
 - Chapter 3  
 -- Learning with Quadratic Sigmoid Function   
-*lecture note  
-*exercise  
+[lecture note]()  
+[exercise]()  
 *refer:  
-*matlab code  
+[matlab code]()  
 *supplementary material:
 
 - Chapter 4  
 -- Hidden Tree in Multilayer Network  
 This tree shows the hidden details of the MLP. It can pinpoint the local detailed errors in the MLP during BP training.  
-*lecture note  
-*exercise  
+[lecture note]()  
+[exercise]()  
 *refer:  
 *demo:  
-*remark
+[remark]()
 
 - Chapter 5  
 -- Internal Representations of Hidden Layers  
 There are five types to operate the SIR:  
-*Type I:SIR-SOM  
-*Type II:SIR-Kernel  
-*Type III:SIR-Recurrent  
-*Type IV:SIR-Hopfield  
-*Type V:SIR-Module  
-*lecture note  
-*exercise  
+Type I:    [SIR-SOM]()  
+Type II:   [SIR-Kernel]()  
+Type III:  [SIR-Recurrent]()  
+Type IV:   SIR-Hopfield  
+Type V:    SIR-Module  
+[lecture note]()  
+[exercise]()  
 *refer:  
-*matlab code  
-*codes for figure 5,6,7  
-*supplementary material
+[matlab code]()  
+[codes for figure 5,6,7]()  
+[supplementary material]()
 
 - Chapter 6  
 -- Hairy model  
-*lecture note  
-*exercise  
+[lecture note]()  
+[exercise]()  
 *refer:  
-*matlab code  
-*demo
+[matlab code]()  
+[demo]()
 
 - Chapter 7  
 -- Caianiello Neuronic Equations  
-*lecture note  
-*exercise  
+[lecture note]()  
+[exercise]()  
 *refer:
 
 - Chapter 8  
 -- Caianiello Polygonal Inequality  
-*lecture note  
+[lecture note]()  
 
-- Appendix
-- References
+- [Appendix]()
+- [References]()
 
 ## Textbook
 
