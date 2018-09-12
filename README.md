@@ -17,7 +17,7 @@
 -- Deadline: 2019/01/02 12:00  
 - Homework 1  
 -- Please refer to [Homework 2](./Homework/2/hw2.pdf)  
--- [Dataset](./Homework/2/hw2pt.dat.txt) and the [class similarity information](./Homework/2/hw2class.dat.txt)
+-- [Dataset](./Homework/2/hw2pt.dat.txt) and the [class similarity information](./Homework/2/hw2class.dat.txt)  
 -- Deadline: 2019/01/02 12:00  
 - Homework 1  
 -- Please refer to [Homework 3](./Homework/3/hw3.pdf), [Code](./Homework/3/Q_Demo.zip)  
